@@ -1,0 +1,17 @@
+{
+    "drill": {
+        "diameter": 2,
+        "plate x": 2,
+        "plate y": 2
+    },
+    "bsa 5": {
+        "diameter": ".5",
+        "plate x": "21",
+        "plate y": "11"
+    },
+    "x": {
+        "diameter": ".5",
+        "plate x": "1",
+        "plate y": "1"
+    }
+}
